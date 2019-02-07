@@ -10,6 +10,7 @@ A Checkers video game in Unity3D. Vuforia API was used to add augmented reality.
 ## Snapshots
 
 [![1](https://github.com/ZainQasmi/AR-Checkers-Unity3D/blob/master/Snapshots/vic.png)](#features)
+[![2](https://github.com/ZainQasmi/AR-Checkers-Unity3D/blob/master/Snapshots/unnamed.jpg)](#features)
 
 ## Author
 
