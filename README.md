@@ -2,6 +2,10 @@
 
 A Checkers video game in Unity3D. Vuforia API was used to add augmented reality. Successfully deployed on Android.
 
+## Getting Started
+
+Download and install the provided APK and you are good to go!
+
 ## Built With
 
 * [Unity3D](https://unity3d.com/) - Game Engine
